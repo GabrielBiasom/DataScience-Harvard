@@ -1,6 +1,6 @@
 We analize US gun murder data collected by the FBI.
 
-![barplot](https://user-images.githubusercontent.com/54422701/108612405-40eea580-73c7-11eb-9eb4-f89869258f4e.png)
+![barplot](https://user-images.githubusercontent.com/54422701/110262737-5d780980-7f93-11eb-8313-cc22c0e9e7dd.png)
 
 download-data.R - downloads csv file to data directory
 
